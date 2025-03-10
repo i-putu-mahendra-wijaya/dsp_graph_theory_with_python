@@ -1,0 +1,47 @@
+.idea/
+
+# ignoring __pycache__
+**/__pycache__/
+
+# ignoring Python venv
+venv_*/
+
+
+# ignoring Python sub-modules
+*.egg-info/
+
+# ignoring log files
+**/*.log
+
+# ignoring fetched csv
+dataset/**/fetched_*.csv
+
+
+# ignoring credentials json
+credentials/**/*.json
+
+# Ignoring React Nodejs dependencies
+**/node_modules/
+
+# dependencies
+**/node_modules
+**/.pnp
+**/.pnp.js
+
+# testing
+**/coverage
+
+# production
+**/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+

@@ -48,6 +48,7 @@ distlib
 dnspython
 docopt
 docutils
+dotenv
 dunamai
 email_validator
 et_xmlfile
@@ -141,6 +142,7 @@ more-itertools
 mpmath
 msgspec
 multidict
+narwhals
 nbclient
 nbconvert
 nbformat
@@ -172,14 +174,16 @@ pexpect
 pickleshare
 pillow
 pip
+pipenv
 pipreqs
 pkgutil_resolve_name
 platformdirs
+plotly
 pluggy
 plumbum
 prison
 prometheus_client
-prompt_toolkit
+prompt-toolkit
 propcache
 proto-plus
 protobuf
@@ -200,6 +204,7 @@ PyJWT
 pyparsing
 python-daemon
 python-dateutil
+python-dotenv
 python-json-logger
 python-multipart
 python-nvd3

@@ -1,5 +1,5 @@
 ---
 PROJECT_ROOT_DIR: "/Users/iputumahendrawijaya/PersonalProjects/binus_20250310_graph_theory_in_python/dsp_intro_to_graph"
-JOB_LOCATION : "asia-southeast2" # Jakarta area
-PROJECT_ID_DEV: "agriaku-dwh-dev-353603" # GCP Project ID - Development
-PROJECT_ID_PROD: "disco-song-343611" # GCP Project ID - Production
+JOB_LOCATION : ""
+PROJECT_ID_DEV: ""
+PROJECT_ID_PROD: ""

@@ -190,6 +190,7 @@ protobuf
 psutil
 psycopg2
 ptyprocess
+PubChemPy
 pure_eval
 pyarrow
 pyasn1
@@ -217,6 +218,7 @@ pyzmq
 qtconsole
 QtPy
 questionary
+rdkit
 referencing
 requests
 requests-oauthlib

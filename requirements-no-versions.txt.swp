@@ -49,6 +49,7 @@ dnspython
 docopt
 docutils
 dotenv
+dsp_intro_to_graph
 dunamai
 email_validator
 et_xmlfile
@@ -174,7 +175,6 @@ pexpect
 pickleshare
 pillow
 pip
-pipenv
 pipreqs
 pkgutil_resolve_name
 platformdirs
@@ -183,13 +183,14 @@ pluggy
 plumbum
 prison
 prometheus_client
-prompt-toolkit
+prompt_toolkit
 propcache
 proto-plus
 protobuf
 psutil
 psycopg2
 ptyprocess
+PubChemPy
 pure_eval
 pyarrow
 pyasn1
@@ -217,6 +218,7 @@ pyzmq
 qtconsole
 QtPy
 questionary
+rdkit
 referencing
 requests
 requests-oauthlib
